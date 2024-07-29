@@ -1,4 +1,3 @@
-# Trivia-Game
 # 🎉 Agricultural Trivia Quiz 🎉
 
 This project is a web-based multiple-choice quiz application designed to test your knowledge about agriculture in India. The quiz is built using HTML, CSS, and JavaScript.
