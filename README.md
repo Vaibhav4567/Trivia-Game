@@ -79,3 +79,9 @@ The JavaScript file contains the logic for the quiz functionality, including:
 - Managing the timer
 - Calculating the score
 - Displaying the results
+
+- ---
+
+Feel free to reach out if you have any questions or feedback. Enjoy the game!
+
+---
